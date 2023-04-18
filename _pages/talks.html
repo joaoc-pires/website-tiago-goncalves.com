@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% for post in site.talks reversed %}
+<p style="line-height: 1;">
+<span class="archive__subtitle" style="font-size: small;">{{ post.month }} {{ post.year }}</span><br>
+<a class="post-link" href="{{ post.permalink }}">{{ post.title }}</a><br>
+<span style="font-style: italic;">{{ post.venue }}</span>
+</p>
+{% endfor %}

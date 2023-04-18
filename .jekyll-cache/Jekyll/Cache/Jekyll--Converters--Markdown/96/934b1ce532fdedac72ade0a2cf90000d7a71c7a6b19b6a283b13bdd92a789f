@@ -1,0 +1,358 @@
+I"�1
+<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
+
+<h2>Pages</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/404.html" rel="permalink"&gt;Page Not Found&lt;/a&gt;
+  
+&lt;/h2&gt;
+
+
+
+    
+
+
+&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;Page not found. Your pixels are in another canvas.&lt;/p&gt;
+</code></pre></div>    </div>
+    <p>&lt;/p&gt;</p>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/" rel="permalink"&gt;academicpages is a ready-to-fork GitHub Pages template for academic personal websites&lt;/a&gt;
+  
+&lt;/h2&gt;
+
+
+
+    
+
+
+&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;About me&lt;/p&gt;
+</code></pre></div>    </div>
+    <p>&lt;/p&gt;</p>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/archive-layout-with-content/" rel="permalink"&gt;Archive Layout with Content&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/categories/" rel="permalink"&gt;Posts by Category&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/collection-archive/" rel="permalink"&gt;Posts by Collection&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/cv/" rel="permalink"&gt;CV&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/markdown/" rel="permalink"&gt;Markdown&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/non-menu-page/" rel="permalink"&gt;Page not in menu&lt;/a&gt;
+  
+&lt;/h2&gt;
+
+
+
+    
+
+
+&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;This is a page not in th emain menu&lt;/p&gt;
+</code></pre></div>    </div>
+    <p>&lt;/p&gt;</p>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/page-archive/" rel="permalink"&gt;Page Archive&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/portfolio/" rel="permalink"&gt;Portfolio&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/publications/" rel="permalink"&gt;Publications&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/sitemap/" rel="permalink"&gt;Sitemap&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/tags/" rel="permalink"&gt;Posts by Tags&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/talkmap.html" rel="permalink"&gt;Talk map&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/talks/" rel="permalink"&gt;Talks and presentations&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/teaching/" rel="permalink"&gt;Teaching&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/terms/" rel="permalink"&gt;Terms and Privacy Policy&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/year-archive/" rel="permalink"&gt;Blog posts&lt;/a&gt;
+  
+&lt;/h2&gt;
+</code></pre></div>    </div>
+
+  </article>
+</div>
+
+<h2>Posts</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/posts/2012/08/blog-post-4/" rel="permalink"&gt;Blog Post number 4 &lt;/a&gt;
+  
+&lt;/h2&gt;
+
+
+
+    
+     &lt;p class="page__date"&gt;&lt;strong&gt;&lt;i class="fa fa-fw fa-calendar" aria-hidden="true"&gt;&lt;/i&gt; Published:&lt;/strong&gt; &lt;time datetime="2015-08-14T00:00:00+01:00"&gt;August 14, 2015&lt;/time&gt;&lt;/p&gt;
+    
+
+
+&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+</code></pre></div>    </div>
+    <p>&lt;/p&gt;</p>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/posts/2014/08/blog-post-3/" rel="permalink"&gt;Blog Post number 3 &lt;/a&gt;
+  
+&lt;/h2&gt;
+
+
+
+    
+     &lt;p class="page__date"&gt;&lt;strong&gt;&lt;i class="fa fa-fw fa-calendar" aria-hidden="true"&gt;&lt;/i&gt; Published:&lt;/strong&gt; &lt;time datetime="2014-08-14T00:00:00+01:00"&gt;August 14, 2014&lt;/time&gt;&lt;/p&gt;
+    
+
+
+&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+</code></pre></div>    </div>
+    <p>&lt;/p&gt;</p>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/posts/2013/08/blog-post-2/" rel="permalink"&gt;Blog Post number 2 &lt;/a&gt;
+  
+&lt;/h2&gt;
+
+
+
+    
+     &lt;p class="page__date"&gt;&lt;strong&gt;&lt;i class="fa fa-fw fa-calendar" aria-hidden="true"&gt;&lt;/i&gt; Published:&lt;/strong&gt; &lt;time datetime="2013-08-14T00:00:00+01:00"&gt;August 14, 2013&lt;/time&gt;&lt;/p&gt;
+    
+
+
+&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+</code></pre></div>    </div>
+    <p>&lt;/p&gt;</p>
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;h2 class="archive__item-title" itemprop="headline"&gt;
+  
+    &lt;a href="http://localhost:4000/posts/2012/08/blog-post-1/" rel="permalink"&gt;Blog Post number 1 &lt;/a&gt;
+  
+&lt;/h2&gt;
+
+
+
+    
+     &lt;p class="page__date"&gt;&lt;strong&gt;&lt;i class="fa fa-fw fa-calendar" aria-hidden="true"&gt;&lt;/i&gt; Published:&lt;/strong&gt; &lt;time datetime="2012-08-14T00:00:00+01:00"&gt;August 14, 2012&lt;/time&gt;&lt;/p&gt;
+    
+
+
+&lt;p class="archive__item-excerpt" itemprop="description"&gt;&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+</code></pre></div>    </div>
+    <p>&lt;/p&gt;</p>
+
+  </article>
+</div>
+
+:ET
