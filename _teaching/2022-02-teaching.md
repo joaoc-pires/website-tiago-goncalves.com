@@ -9,7 +9,7 @@ month: 'September'
 year: '2022' 
 location: "Lisbon, Portugal"
 ---
-I was invited to leature on Knowledge Management theories.
+I was invited to lecture on Knowledge Management theories.
 
 Master’s Degree in Human Resources Management<br>
 60-80 Master’s Students

@@ -9,7 +9,7 @@ month: 'October'
 year: '2022' 
 location: "Lisbon, Portugal"
 ---
-I was invited to leature on Counterproductive knowledge behaviours.
+I was invited to lecture on Counterproductive knowledge behaviours.
 
 Master’s Degree in Human Resources Management<br>
 60-80 Master’s Students
