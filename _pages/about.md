@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tiago Gonçalves and I am an Invited Assistant Professor and PhD Candidate in Management at ISEG – Lisbon School of Economics and Management, Universidade de Lisboa, Portugal. I have teaching experience at various levels of higher education, especially Bachelor’s and Master’s. 
+My name is Tiago Gonçalves and I am an Invited Assistant Professor and PhD in Management at ISEG – Lisbon School of Economics and Management, Universidade de Lisboa, Portugal. I have teaching experience at various levels of higher education, especially Bachelor’s and Master’s. 
 
 My research interests are Knowledge Management, Human Resources Management and Organizational Psychology and Behavior. My recent research focuses on the characteristics of Knowledge Management and related phenomena in healthcare organizations, as well as counterproductive forms of knowledge behaviour. 
 
