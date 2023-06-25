@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D in Management, ISEG – Lisbon School of Management and Economics, 2023 (expected)
+* Ph.D in Management, ISEG – Lisbon School of Management and Economics, 2023
 * M.S. in in Human Resources Management, ISEG – Lisbon School of Management and Economics, 2018
 * B.S. in Psychology, o	Instituto Superior de Ciências do Trabalho e da Empresa, Instituto Universitário de Lisboa, 2012
 
