@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tiago Gonçalves / Phd in Management"
+title                    : "Tiago Gonçalves / Ph.D. in Management"
 title_separator          : "-"
 name                     : &name "Tiago Gonçalves"
-description              : &description "Phd in Management and Invited Professor at ISEG"
+description              : &description "Ph.D. in Management and Invited Professor at ISEG"
 url                      : https://tiago-goncalves.com
 baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tiago Gonçalves"
   avatar           : "Tiago.jpg"
-  bio              : "Phd in Management<br>Invited Professor at ISEG<br>Research Fellow at University of Lisbon"
+  bio              : "Ph.D. in Management<br>Invited Professor at ISEG<br>Research Fellow at University of Lisbon"
   location         : "Lisbon, Portugal"
   employer         :
   pubmed           :
