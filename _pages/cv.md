@@ -22,6 +22,10 @@ Courses Lectured:<br>
     o	Gestão de Recursos Humanos<br>
     o	Metodologia de Investigação em Gestão<br>
     o	Análise de Dados em Gestão<br>
+    o	Ética Empresarial<br>
+    o	Ética<br>
+    o	Leading People in the 21st Century<br>
+    o	Behavioral Labs<br>
 
 ***2018/2020*: Senior Human Resources Officer**<br>
 MANTU (Portugal; Brazil; Colombia; Chile; Mexico)<br>
