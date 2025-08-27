@@ -1,28 +1,19 @@
 source "https://rubygems.org"
-require 'tzinfo'
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
 
+# GitHub Pages bundle (pins Jekyll + approved plugins)
 gem "github-pages", group: :jekyll_plugins
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
+# Needed locally on Ruby 3+ for `jekyll serve`
+gem "webrick", "~> 1.8"
 
-# gem "jekyll"
+# Windows-only extras (ignored on macOS/Linux)
+platforms :windows do
+  gem "wdm", "~> 0.1.1"
+  gem "tzinfo-data"
+end
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-  gem 'webrick'
+  gem "jekyll-sitemap"    # already included by github-pages; harmless duplicate
+  # gem "jekyll-paginate" # only if your _config.yml uses it (Pages includes it)
+  # gem "hawkins"         # REMOVE: not supported by GitHub Pages
 end

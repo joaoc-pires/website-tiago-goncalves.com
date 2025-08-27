@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tiago Gonçalves / Ph.D. in Management"
 title_separator          : "-"
 name                     : &name "Tiago Gonçalves"
-description              : &description "Ph.D. in Management and Invited Professor at ISEG"
+description              : &description "Ph.D. in Management and Assistant Professor at ISEG"
 url                      : https://tiago-goncalves.com
 baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Tiago Gonçalves"
   avatar           : "Tiago.jpg"
-  bio              : "Ph.D. in Management<br>Invited Professor at ISEG<br>Integrated Research Member at ADVANCE/CSG - ISEG, ULisboa"
+  bio              : "Ph.D. in Management<br>Assistant Professor at ISEG<br>Integrated Research Member at ADVANCE/ISEG Research - ISEG, ULisboa"
   location         : "Lisbon, Portugal"
   employer         :
   pubmed           :
